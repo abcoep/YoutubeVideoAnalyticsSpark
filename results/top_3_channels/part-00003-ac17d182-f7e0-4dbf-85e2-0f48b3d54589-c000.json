@@ -1,0 +1,120 @@
+{
+  "dislikes_ratio": [
+	{
+	  "channel_title": "Rob Andretti",
+	  "like_dislike_ratio": -1.0,
+	  "total_comment_count": 1,
+	  "total_dislikes": 3,
+	  "total_likes": 0,
+	  "total_videos": 1,
+	  "total_views": 2447
+	},
+	{
+	  "channel_title": "Daily Caller",
+	  "like_dislike_ratio": -0.9195623492634392,
+	  "total_comment_count": 29634,
+	  "total_dislikes": 228426,
+	  "total_likes": 9572,
+	  "total_videos": 1,
+	  "total_views": 1205682
+	},
+	{
+	  "channel_title": "J S",
+	  "like_dislike_ratio": -0.9089529590288316,
+	  "total_comment_count": 214,
+	  "total_dislikes": 629,
+	  "total_likes": 30,
+	  "total_videos": 1,
+	  "total_views": 229332
+	}
+  ],
+  "id": "top3Channels",
+  "likes_ratio": [
+	{
+	  "channel_title": "Milkmen Design",
+	  "like_dislike_ratio": 1.0,
+	  "total_comment_count": 1,
+	  "total_dislikes": 0,
+	  "total_likes": 8,
+	  "total_videos": 1,
+	  "total_views": 5696
+	},
+	{
+	  "channel_title": "90s Commercials",
+	  "like_dislike_ratio": 1.0,
+	  "total_comment_count": 0,
+	  "total_dislikes": 0,
+	  "total_likes": 2,
+	  "total_videos": 1,
+	  "total_views": 773
+	},
+	{
+	  "channel_title": "Any rubbish",
+	  "like_dislike_ratio": 1.0,
+	  "total_comment_count": 1,
+	  "total_dislikes": 0,
+	  "total_likes": 2,
+	  "total_videos": 1,
+	  "total_views": 4744
+	}
+  ],
+  "name": "Top 3 channels",
+  "total_comment_count": [
+	{
+	  "channel_title": "ibighit",
+	  "like_dislike_ratio": 0.9672032611559966,
+	  "total_comment_count": 3400506,
+	  "total_dislikes": 365906,
+	  "total_likes": 21947654,
+	  "total_videos": 9,
+	  "total_views": 271753404
+	},
+	{
+	  "channel_title": "Logan Paul Vlogs",
+	  "like_dislike_ratio": 0.36674150293118496,
+	  "total_comment_count": 2632337,
+	  "total_dislikes": 2604438,
+	  "total_likes": 5621075,
+	  "total_videos": 4,
+	  "total_views": 94926744
+	},
+	{
+	  "channel_title": "YouTube Spotlight",
+	  "like_dislike_ratio": 0.2827353841253021,
+	  "total_comment_count": 906244,
+	  "total_dislikes": 1772032,
+	  "total_likes": 3169051,
+	  "total_videos": 3,
+	  "total_views": 151555017
+	}
+  ],
+  "total_views": [
+	{
+	  "channel_title": "ibighit",
+	  "like_dislike_ratio": 0.9672032611559966,
+	  "total_comment_count": 3400506,
+	  "total_dislikes": 365906,
+	  "total_likes": 21947654,
+	  "total_videos": 9,
+	  "total_views": 271753404
+	},
+	{
+	  "channel_title": "ChildishGambinoVEVO",
+	  "like_dislike_ratio": 0.8719800349954006,
+	  "total_comment_count": 517232,
+	  "total_dislikes": 343541,
+	  "total_likes": 5023450,
+	  "total_videos": 1,
+	  "total_views": 225211923
+	},
+	{
+	  "channel_title": "Marvel Entertainment",
+	  "like_dislike_ratio": 0.9606592988485381,
+	  "total_comment_count": 672205,
+	  "total_dislikes": 114565,
+	  "total_likes": 5709683,
+	  "total_videos": 15,
+	  "total_views": 203573220
+	}
+  ]
+}

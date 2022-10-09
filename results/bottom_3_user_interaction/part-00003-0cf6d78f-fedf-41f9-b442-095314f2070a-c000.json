@@ -1,0 +1,57 @@
+{
+  "id": "bottom3UserInteraction",
+  "name": "Bottom 3 videos by user interaction",
+  "user_interaction": [
+	{
+	  "category": "News & Politics",
+	  "category_id": "25",
+	  "channel_title": "Newsy",
+	  "comment_count": 4,
+	  "comments_disabled": false,
+	  "dislikes": 0,
+	  "likes": 9,
+	  "publish_time": "2018-01-23T15:30:01.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "shooting|\"kentucky\"|\"breaking news\"|\"u.s. news\"|\"marshall county high school\"|\"dead\"|\"fatality\"|\"injured\"|\"students\"|\"school\"|\"governor matt bevin\"",
+	  "title": "1 dead, others injured after Ky. school shooting",
+	  "trending_date": "2018-01-28",
+	  "user_interaction": 572,
+	  "video_id": "y6KYFcta4SE",
+	  "views": 559
+	},
+	{
+	  "category": "Sports",
+	  "category_id": "17",
+	  "channel_title": "Palo Alto Online",
+	  "comment_count": 0,
+	  "comments_disabled": false,
+	  "dislikes": 0,
+	  "likes": 1,
+	  "publish_time": "2018-01-10T23:53:56.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "[none]",
+	  "title": "Artwork Forge",
+	  "trending_date": "2018-01-29",
+	  "user_interaction": 746,
+	  "video_id": "dQMZLXaa1L8",
+	  "views": 745
+	},
+	{
+	  "category": "News & Politics",
+	  "category_id": "25",
+	  "channel_title": "Associated Press",
+	  "comment_count": 0,
+	  "comments_disabled": true,
+	  "dislikes": 0,
+	  "likes": 9,
+	  "publish_time": "2018-01-16T12:16:44.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "news|\"associated press\"|\"ap\"|\"ap online\"|\"associated press style\"|\"breaking news\"|\"latest news\"|\"business\"|\"finance\"|\"politics\"|\"local news\"|\"commentary\"|\"reports\"|\"current affairs\"|\"top news\"|\"headlines\"|\"news today\"|\"charlotte\"|\"north carolina\"|\"united states\"|\"north america\"|\"south carolina\"|\"national\"|\"regional (ap video-us only\"|\"charlotte police shooting\"|\"raw\"|\"south\"|\"carolina\"|\"deputies\"|\"officer\"|\"shot\"",
+	  "title": "Raw: 3 South Carolina Deputies, 1 Officer Shot",
+	  "trending_date": "2018-01-18",
+	  "user_interaction": 757,
+	  "video_id": "zeQaJGkFyqQ",
+	  "views": 748
+	}
+  ]
+}

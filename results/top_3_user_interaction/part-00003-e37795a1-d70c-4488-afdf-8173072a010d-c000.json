@@ -1,0 +1,57 @@
+{
+  "id": "top3UserInteraction",
+  "name": "Top 3 videos by user interaction",
+  "user_interaction": [
+	{
+	  "category": "Music",
+	  "category_id": "10",
+	  "channel_title": "ChildishGambinoVEVO",
+	  "comment_count": 517232,
+	  "comments_disabled": false,
+	  "dislikes": 343541,
+	  "likes": 5023450,
+	  "publish_time": "2018-05-06T04:00:07.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "Childish Gambino|\"Rap\"|\"This Is America\"|\"mcDJ Recording/RCA Records\"",
+	  "title": "Childish Gambino - This Is America (Official Video)",
+	  "trending_date": "2018-06-02",
+	  "user_interaction": 231096146,
+	  "video_id": "VYOjWnS4cMY",
+	  "views": 225211923
+	},
+	{
+	  "category": "Entertainment",
+	  "category_id": "24",
+	  "channel_title": "YouTube Spotlight",
+	  "comment_count": 810698,
+	  "comments_disabled": false,
+	  "dislikes": 1643059,
+	  "likes": 3093544,
+	  "publish_time": "2017-12-06T17:58:51.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "Rewind|\"Rewind 2017\"|\"youtube rewind 2017\"|\"#YouTubeRewind\"|\"Rewind 2016\"|\"Dan and Phil\"|\"Grace Helbig\"|\"HolaSoyGerman\"|\"Lilly Singh\"|\"Markiplier\"|\"Swoozie\"|\"Rhett Link\"|\"Liza Koshy\"|\"Dolan Twins\"|\"Lele Pons\"|\"Jake Paul\"|\"Logan Paul\"|\"KSI\"|\"Joey Graceffa\"|\"Casey Neistat\"|\"Poppy\"|\"Niana Guerrero\"|\"Daddy Yankee\"|\"Luis Fonsi\"|\"Ed Sheeran\"|\"Kendrick Lamar\"|\"Stephen Colbert\"|\"Fidget Spinners\"|\"Slime\"|\"Backpack Kid\"|\"April the Giraffe\"|\"#Rewind\"|\"Despacito\"|\"Shape of you\"|\"YouTubeRewind\"|\"I’m the One\"|\"Humble\"",
+	  "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+	  "trending_date": "2017-12-14",
+	  "user_interaction": 154923428,
+	  "video_id": "FlsCjmMhFmw",
+	  "views": 149376127
+	},
+	{
+	  "category": "Music",
+	  "category_id": "10",
+	  "channel_title": "ArianaGrandeVevo",
+	  "comment_count": 242039,
+	  "comments_disabled": false,
+	  "dislikes": 129502,
+	  "likes": 3094021,
+	  "publish_time": "2018-04-20T04:00:03.000+05:30",
+	  "ratings_disabled": false,
+	  "tags": "Ariana|\"Grande\"|\"No\"|\"Tears\"|\"Left\"|\"To\"|\"Cry\"|\"Universal\"|\"Records\"|\"Pop\"",
+	  "title": "Ariana Grande - No Tears Left To Cry",
+	  "trending_date": "2018-05-14",
+	  "user_interaction": 152155458,
+	  "video_id": "ffxKSjUwKdU",
+	  "views": 148689896
+	}
+  ]
+}
